@@ -1,0 +1,28 @@
+theme = "blowfish"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+summaryLength = 30
+enableEmoji = true
+
+[languages.en.pagination]
+pagerSize = 5
+
+[languages.de.pagination]
+pagerSize = 5
+buildDrafts = false
+buildFuture = false
+enableEmoji = true
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+author = "authors"
+series = "series"
+
+[sitemap]
+changefreq = "daily"
+filename = "sitemap.xml"
+priority = 0.5
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]

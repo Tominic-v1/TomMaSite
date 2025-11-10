@@ -1,0 +1,40 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Blog"
+pre = "lightbulb"
+pageRef = "blog"
+identifier = "i4go0kwSR0"
+weight = 1
+
+[[main]]
+name = "Contacts"
+pre = "link"
+pageRef = "contacts"
+identifier = "ltjEo8iZJu"
+weight = 4
+
+[[main]]
+name = "About"
+pre = "mug-hot"
+pageRef = "About"
+identifier = "FEENLftXte"
+weight = 3
+
+[[main]]
+name = "Projects"
+pre = "wand-magic-sparkles"
+pageRef = "projects"
+identifier = "cAu5PExKMK"
+weight = 2
+
+[[main]]
+name = "Resume"
+pre = "list"
+pageRef = "resume"
+identifier = "BE3QoyW9oQ"
+weight = 9_999
+
+[[footer]]
+none = "none"

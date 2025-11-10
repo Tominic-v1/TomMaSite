@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "**Machinations** *by Tom*"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "My awesome website"
+dateFormat = "2 January 2006"
+logo = "logo2_2.png"
+secondaryLogo = "logo2_1.png"
+
+  [params.author]
+  name = "Your name here"
+  image = "img/blowfish_logo.png"
+  headline = "I'm only human"
+  bio = "A little bit about you"
+
+["params.author"]
+name = "Tom Machin"
+image = "DSC_4900.jpg"
+headline = "Mechatronics Engineer<br>Certified Drone Pilot<br>Overconfident Hobbyist"
+bio = "B.E. Engineering Honours, Sub 25kg MultiR. RePL, Clueless Idiot"
