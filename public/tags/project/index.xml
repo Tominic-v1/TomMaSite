@@ -6,15 +6,15 @@
     <description>Recent content in Project on **Machinations** *by Tom*</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 Tom Machin</copyright>
+    <copyright>© 2026 Your name here</copyright>
     <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>All-in-One High-Level Gimbal Controller</title>
-      <link>//localhost:1313/projects/1761974111897-example-project/</link>
+      <link>//localhost:1313/AIO-Gimbal-Controller/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/1761974111897-example-project/</guid>
+      <guid>//localhost:1313/AIO-Gimbal-Controller/</guid>
       <description>&lt;p&gt;&lt;strong&gt;A Specialized Solution for Automatic Object Tracking and Remote Gimbal Control with an All-in-One Package.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 class=&#34;relative group&#34;&gt;Abstract
@@ -26,8 +26,8 @@
     &lt;/span&gt;
     
 &lt;/h1&gt;
-&lt;p&gt;Traditional camera-drone solutions are designed to exist within the existing drone&amp;rsquo;s avionics ecosystem, requiring for changes to the drone&amp;rsquo;s design and architecture to implement. With this solution, the objective is to eliminate this dependency and create a completely all-in-one gimbal package, including manual control of the gimbal&amp;rsquo;s attitude via a ground operator, and automatic visual tracking of a sister device.&lt;/p&gt;</description>
-      
+&lt;p&gt;Traditional camera-drone solutions are designed to function within the existing drone&amp;rsquo;s avionics ecosystem, requiring for changes to the drone&amp;rsquo;s design and architecture to implement. With this solution, the objective is to eliminate this dependency and create a completely all-in-one gimbal package, including manual control of the gimbal&amp;rsquo;s attitude via a ground operator, and automatic visual tracking of a sister device.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/AIO-Gimbal-Controller/featured.jpeg" />
     </item>
     
   </channel>

@@ -6,16 +6,16 @@
     <description>Recent content on **Machinations** *by Tom*</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 Tom Machin</copyright>
+    <copyright>© 2026 Your name here</copyright>
     <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>All-in-One High-Level Gimbal Controller</title>
-      <link>//localhost:1313/projects/1761974111897-example-project/</link>
+      <link>//localhost:1313/AIO-Gimbal-Controller/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/1761974111897-example-project/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;A Specialized Solution for Automatic Object Tracking and Remote Gimbal Control, All-in-One Package.&lt;/strong&gt;&lt;/p&gt;
+      <guid>//localhost:1313/AIO-Gimbal-Controller/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;A Specialized Solution for Automatic Object Tracking and Remote Gimbal Control with an All-in-One Package.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 class=&#34;relative group&#34;&gt;Abstract
     &lt;div id=&#34;abstract&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -26,8 +26,8 @@
     &lt;/span&gt;
     
 &lt;/h1&gt;
-&lt;p&gt;When filming from a drone, a 2-3 axis gimbal is often required to stabilise the footage and ensure that the drone&amp;rsquo;s motion does not affect the camera&amp;rsquo;s attitude. Such gimbals are often capable of taking input signals to&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1761974111897-example-project/featured.png" />
+&lt;p&gt;Traditional camera-drone solutions are designed to function within the existing drone&amp;rsquo;s avionics ecosystem, requiring for changes to the drone&amp;rsquo;s design and architecture to implement. With this solution, the objective is to eliminate this dependency and create a completely all-in-one gimbal package, including manual control of the gimbal&amp;rsquo;s attitude via a ground operator, and automatic visual tracking of a sister device.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/AIO-Gimbal-Controller/featured.jpeg" />
     </item>
     
     <item>
@@ -37,6 +37,16 @@
       
       <guid>//localhost:1313/about/1761919420246-about-me/</guid>
       <description>Get to know a bit more about me! Or not, im not gonna make you &amp;ndash; what am I, a cop?</description>
+      
+    </item>
+    
+    <item>
+      <title>AI-Free Object Tracking or Bust! | AIO Gimbal Controller Devlog 1</title>
+      <link>//localhost:1313/blog/1761918499215-site-setup-and-hello/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/1761918499215-site-setup-and-hello/</guid>
+      <description>The First Devlog for my AIO Gimbal Controller. More to come soon&amp;hellip; &amp;#x1f440;</description>
       
     </item>
     
@@ -63,16 +73,6 @@
 &lt;li&gt;🚁 Resume: &lt;a
   href=&#34;../projects&#34;&gt;Resume&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Site Setup and Hello!</title>
-      <link>//localhost:1313/blog/1761918499215-site-setup-and-hello/</link>
-      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/blog/1761918499215-site-setup-and-hello/</guid>
-      <description>The very first post on this site. Maybe it&amp;rsquo;s time to go back to the zoo?</description>
       
     </item>
     

@@ -6,7 +6,7 @@
     <description>Recent content in Projects on **Machinations** *by Tom*</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 Tom Machin</copyright>
+    <copyright>© 2026 Your name here</copyright>
     <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -26,7 +26,7 @@
     &lt;/span&gt;
     
 &lt;/h1&gt;
-&lt;p&gt;Traditional camera-drone solutions are designed to exist within the existing drone&amp;rsquo;s avionics ecosystem, requiring for changes to the drone&amp;rsquo;s design and architecture to implement. With this solution, the objective is to eliminate this dependency and create a completely all-in-one gimbal package, including manual control of the gimbal&amp;rsquo;s attitude via a ground operator, and automatic visual tracking of a sister device.&lt;/p&gt;</description>
+&lt;p&gt;Traditional camera-drone solutions are designed to function within the existing drone&amp;rsquo;s avionics ecosystem, requiring for changes to the drone&amp;rsquo;s design and architecture to implement. With this solution, the objective is to eliminate this dependency and create a completely all-in-one gimbal package, including manual control of the gimbal&amp;rsquo;s attitude via a ground operator, and automatic visual tracking of a sister device.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/AIO-Gimbal-Controller/featured.jpeg" />
     </item>
     
