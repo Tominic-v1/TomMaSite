@@ -1,9 +1,10 @@
 ---
 title: "All-in-One High-Level Gimbal Controller"
+url: "/AIO-Gimbal-Controller/"
 date: 2026-01-13
 draft: false
 description: "A Specialized Solution for Automatic Object Tracking and Remote Gimbal Control, All-in-One Package."
-tags: ["example", "tag"]
+tags: ["Gimbal", "Drones", "Multirotors", "Filming", "Hobby", "Project"]
 ---
 **A Specialized Solution for Automatic Object Tracking and Remote Gimbal Control with an All-in-One Package.**
 

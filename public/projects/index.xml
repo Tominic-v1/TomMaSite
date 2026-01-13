@@ -11,11 +11,11 @@
     
     <item>
       <title>All-in-One High-Level Gimbal Controller</title>
-      <link>//localhost:1313/projects/1761974111897-example-project/</link>
+      <link>//localhost:1313/AIO-Gimbal-Controller/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/1761974111897-example-project/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;A Specialized Solution for Automatic Object Tracking and Remote Gimbal Control, All-in-One Package.&lt;/strong&gt;&lt;/p&gt;
+      <guid>//localhost:1313/AIO-Gimbal-Controller/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;A Specialized Solution for Automatic Object Tracking and Remote Gimbal Control with an All-in-One Package.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 class=&#34;relative group&#34;&gt;Abstract
     &lt;div id=&#34;abstract&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -26,8 +26,8 @@
     &lt;/span&gt;
     
 &lt;/h1&gt;
-&lt;p&gt;When filming from a drone, a 2-3 axis gimbal is often required to stabilise the footage and ensure that the drone&amp;rsquo;s motion does not affect the camera&amp;rsquo;s attitude. Such gimbals are often capable of taking input signals to&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/1761974111897-example-project/featured.png" />
+&lt;p&gt;Traditional camera-drone solutions are designed to exist within the existing drone&amp;rsquo;s avionics ecosystem, requiring for changes to the drone&amp;rsquo;s design and architecture to implement. With this solution, the objective is to eliminate this dependency and create a completely all-in-one gimbal package, including manual control of the gimbal&amp;rsquo;s attitude via a ground operator, and automatic visual tracking of a sister device.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/AIO-Gimbal-Controller/featured.jpeg" />
     </item>
     
   </channel>
